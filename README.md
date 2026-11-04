@@ -5,6 +5,8 @@ superagent-playground-test-dsh
 
 本仓库是 dsh-superagent 的测试仓库，用于验证自动化代理处理 Issue、提交 PR 和响应评审的流程，不包含生产代码。
 
+This repository is a test repository for dsh-superagent. It is used to exercise how the automated agent handles issues, opens pull requests and responds to reviews, and contains no production code.
+
 ### 使用说明
 
 1. 新建 Issue 描述需求，并在正文或评论中 `@yuanyao-dsh-super-agent` 触发代理处理。
